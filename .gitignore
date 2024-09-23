@@ -1,0 +1,17 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+env/
+*.env
+
+# Excel or CSV files
+*.xlsx
