@@ -15,4 +15,4 @@ Medical Assistant website.
 
 
 # Demo Video
-![Watch the video](media/app_demo_video.mp4)
+[Watch the video](https://drive.google.com/file/d/1D2UTr0uKBE8Q8YYMRikpIvNeHYtMENeV/view?usp=sharing)
