@@ -7,8 +7,6 @@ Implemented ML models to predict diseases from symptoms.
   <li>disease-prediction.ipynb is the jupyter notebook where data is analyzed and ml models are used for prediction.</li>
   <li>Training.csv contains training data</li>
   <li>Testing.csv contains testing data</li>
-  <li>app - runs on Flask framework and utilizes the stored result from model to predict new data</li>
-  <li>templates contain html files</li>
 </ul>
 
 ## Models Used
